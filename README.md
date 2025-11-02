@@ -21,7 +21,7 @@ An intelligent learning platform that dynamically adjusts math puzzle difficulty
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/math-adaptive-prototype.git
+git clone https://github.com/chandrakanth172/math-adaptive-prototype.git
 cd math-adaptive-prototype
 
 # Install dependencies
